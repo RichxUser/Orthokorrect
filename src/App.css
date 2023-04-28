@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Inter';
+  src: local('Inter'), url(./fonts/Inter.ttf) format('truetype');
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}

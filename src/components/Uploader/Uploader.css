@@ -1,0 +1,155 @@
+.UploaderSection {
+    position: absolute;
+    width: 100%;
+    height: 250%;
+    left: 0px;
+    top: 0%;
+
+    background: #F1EFFC;
+}
+
+.UploaderImage {
+    position: absolute;
+    left: 6%;
+    top: 12%;
+
+}
+
+.UploaderFrame {
+    position: absolute;
+    width: 58%;
+    height: 150%;
+    left: 5%;
+    top: 100%;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0.25, 0.25, 0.25, 0.25);
+}
+
+.UploaderFrameApercu {
+    position: absolute;
+    width: 28%;
+    height: 100%;
+    left: 65%;
+    top: 80%;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px rgba(0.25, 0.25, 0.25, 0.25);
+}
+
+.UploaderTitle {
+    left: 20%;
+    top: 80%;
+}
+
+.UploaderTitle>p {
+    position: relative;
+    left: 8%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 44px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.Uploader-1-1-title {
+    position: relative;
+    left: 8%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #6D6B6B;
+
+
+}
+
+.conditionsGenerales {
+    position: relative;
+    left: 8%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+
+    color: #000000;
+
+}
+
+.UploaderFrameDepoFichier {
+    position: relative;
+    width: 86%;
+    height: 40%;
+    left: 8%;
+    top: 6%;
+
+    cursor:pointer;
+
+    background: #E9F9EC;
+    border-radius: 10px;
+
+}
+
+.UploaderVotreDocumentIci {
+    position: relative;
+    width: 50%;
+    height: 25%;
+    left: 25%;
+    top: 30%;
+
+    cursor:pointer;
+
+    background: #FFFFFF;
+    border-radius: 10px;
+
+}
+
+.Glissez-deposez {
+    position: relative;
+    left: 30%;
+    top: 30%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height */
+    cursor:pointer;
+    color: #6D6B6B;
+
+}
+
+.UploaderVotreDocumentIci1 {
+    position: relative;
+    left: 18%;
+    top: 30%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height */
+    cursor:pointer;
+    color: #000000;
+    color: #6D6B6B;
+}
+.TypeFile {
+    opacity: 0.0; position: absolute; top:0; left: 0; bottom: 0; right:0; width: 100%; height:100%; cursor:pointer;
+}

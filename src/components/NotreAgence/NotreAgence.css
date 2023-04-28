@@ -1,0 +1,54 @@
+.notreAgencebg>p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    
+    text-align: center;
+
+    color:  #6D6B6B;
+}
+.notreAgencebg>h1 {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 150px;
+    line-height: 40px;
+    
+    text-align: center;
+
+    color:  #4b37f8;
+}
+
+.notreAgencebg {
+
+    background: #F1EFFC;
+}
+
+.WeAreNot>h4 {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 40px;
+    
+    text-align: center;
+
+    color:  #4b37f8;
+}
+.WeAreNot>p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    
+    text-align: center;
+
+    color:  #6D6B6B;
+}

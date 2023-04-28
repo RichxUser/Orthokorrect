@@ -1,0 +1,432 @@
+
+
+.SectionTarifs {
+    background: #F1EFFC;
+}
+
+.TarifTitle {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.PrixTraductionFrame1 {
+    background: rgba(255, 61, 0, 0.2);
+    border: 8px solid #FFFFFF;
+    border-radius: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.PrixTraductionFrameRectancgleArondi_1 {
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.PrixTraductionFrameRectancgleArondi_1>p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    
+
+    text-align: center;
+
+    color: #F65E5B;
+}
+
+
+.PrixTraductionFrame2 {
+
+    background: rgba(43, 194, 79, 0.2);
+    border: 8px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+.PrixTraductionFrameRectancgleArondi_2 {
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+
+.PrixTraductionFrame3 {
+
+    background: rgba(158, 59, 188, 0.2);
+    border: 8px solid #FFFFFF;
+    border-radius: 30px;
+
+    
+
+}
+
+.PrixTraductionFrameRectancgleArondi_3 {
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+
+.PrixTraductionFrame2>p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    
+    text-align: center;
+
+    color: #000000;
+}
+
+.PrixTraductionFrameRectancgleArondi_2>p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 19px;
+    
+
+    text-align: center;
+
+    color: #2BC24F;
+}
+
+.PrixTraductionFrame3>p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+   
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.PrixTraductionFrameRectancgleArondi_3>p {
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 25px;
+
+
+text-align: center;
+
+color: #9E3BBC;
+}
+
+
+/*
+.SectionTarifs {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: -8px;
+    top: 1280px;
+    
+    background: #F1EFFC;
+}
+
+.TarifTitle {
+    position: absolute;
+    left: 14.31%;
+    right: 14.38%;
+    top: 3.86%;
+    bottom: 88.89%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.PrixTraductionFrame1 {
+    
+    position: absolute;
+    left: 14%;
+    right: 64%;
+    top: 20%;
+    bottom: 30%;
+
+    background: rgba(255, 61, 0, 0.2);
+    border: 8px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+.PrixTraductionFrameRectancgleArondi_1 {
+    
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 90%;
+    bottom: -10%;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.PrixTraductionFrame2 {
+    
+    position: absolute;
+    left: 39.56%;
+    right: 39.7%;
+    top: 20%;
+    bottom: 30%;
+
+    background: rgba(43, 194, 79, 0.2);
+    border: 8px solid #FFFFFF;
+    border-radius: 30px;
+}
+
+.PrixTraductionFrameRectancgleArondi_2 {
+    
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 90%;
+    bottom: -10%;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.PrixTraductionFrame3 {
+    
+    position: absolute;
+    left: 64.15%;
+    right: 15.11%;
+    top: 20%;
+    bottom: 30%;
+
+    background: rgba(158, 59, 188, 0.2);
+    border: 8px solid #FFFFFF;
+    border-radius: 30px;
+
+}
+
+.PrixTraductionFrameRectancgleArondi_3 {
+    
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 90%;
+    bottom: -10%;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+
+.PrixTraductionFrame1>p {
+    position: absolute;
+    left: 10%;
+    right: 6%;
+    top: 0%;
+    bottom: 50.85%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.PrixTraductionFrameRectancgleArondi_1>p {
+    position: absolute;
+    left: 21.5%;
+    right: 70.88%;
+    top: 5%;
+    bottom: 44.57%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 25px;
+    
+
+    text-align: center;
+
+    color: #F65E5B;
+}
+
+.PrixTraductionFrame2>p {
+    position: absolute;
+    left: 8%;
+    right: 6%;
+    top: 0%;
+    bottom: 50.85%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    
+    text-align: center;
+
+    color: #000000;
+}
+
+.PrixTraductionFrameRectancgleArondi_2>p {
+    position: absolute;
+    left: 24%;
+    right: 46.29%;
+    top: -10%;
+    bottom: 43.6%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 19px;
+    
+
+    text-align: center;
+
+    color: #2BC24F;
+}
+
+.PrixTraductionFrame3>p {
+    position: absolute;
+    left: 8%;
+    right: 6%;
+    top: 0%;
+    bottom: 58%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+   
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.PrixTraductionFrameRectancgleArondi_3>p {
+    position: absolute;
+left: 24%;
+right: 21.84%;
+top: -10%;
+bottom: 44.57%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 25px;
+
+
+text-align: center;
+
+color: #9E3BBC;
+}
+
+.DescriptionLangues>p {
+    position: absolute;
+    left: 10%;
+    right: 10.89%;
+    top: 75%;
+    bottom: 26.31%;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+   
+    
+    text-align: center;
+    
+    color: #4B3C99;
+}
+
+.ObtenezDevisInstantane {
+    position: absolute;
+left: 8.52%;
+right: 7.42%;
+top: 90%;
+bottom: -15.34%;
+
+background: #C4C4C4;
+border-radius: 30px;
+}
+
+.ObtenezDevisInstantaneTitre {
+    position: absolute;
+left: -55%;
+right: 0%;
+top: 0%;
+bottom: 18.14%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 32px;
+line-height: 25px;
+
+text-align: center;
+
+color: #000000;
+}
+
+.ObtenezDevisInstantaneDetails {
+    position: absolute;
+left: 3%;
+right: 0%;
+top: 40%;
+bottom: 9.79%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 25px;
+
+
+
+color: #000000;
+}
+.ObtenezDevisInstantaneBouttonDevisContacter {
+    position: absolute;
+left: 75%;
+right: 0%;
+top: 50%;
+bottom: 9.79%;
+    
+}
+
+ */

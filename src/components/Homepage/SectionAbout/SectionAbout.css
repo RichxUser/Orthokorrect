@@ -1,0 +1,131 @@
+.Plateform {
+    
+    background: #F1EFFC;
+    border-radius: 30px;
+}
+
+.Plateform>p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 44px;
+
+    color: #4B3C99;
+}
+
+.Besoin>p {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 50px;
+
+    color: #000000;
+}
+
+
+.NuageDeMots {
+    position: absolute;
+    width: 636px;
+    height: 386px;
+    right: 5%;
+    top: 20%;
+
+}
+
+.Description {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+
+/* 
+.SectionAbout {
+    
+    width: 100%;
+    height: 100%;
+    left: 2.71%;
+    top: 10.82%;
+}
+
+.Plateform {
+    flex-wrap:wrap ;
+    left: 0%;
+    right: 0%;
+    top: 15%;
+    bottom: 91.62%;
+
+    background: #F1EFFC;
+    border-radius: 38px;
+}
+
+.Plateform>p {
+    position: absolute;
+    top: 10.46%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #4B3C99;
+}
+
+.Besoin>p {
+    position: absolute;
+    left: 2%;
+    right: 46.12%;
+    top: 20%;
+    bottom: 53.32%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 58px;
+
+    color: #000000;
+}
+
+.NuageDeMots {
+    position: absolute;
+    width: 636px;
+    height: 386px;
+    right: 2%;
+    top: 20%;
+
+}
+
+.Description {
+
+    position: absolute;
+    left: 2%;
+    right: 41.11%;
+    top: 57.37%;
+    bottom: 30.06%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.BouttonDevisContacter {
+    position: absolute;
+    left: 2%;
+    top: 78.2%;
+    bottom: 8.67%;
+}
+
+*/

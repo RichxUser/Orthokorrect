@@ -1,0 +1,17 @@
+.footer{
+
+    background: #f7f6fc;
+}
+
+.titre {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 19px;
+    
+
+    text-align: left;
+
+    color: #020202;
+}
